@@ -5,7 +5,7 @@
 <h3 align="center">
  Launchbase - All Projects
 </h3>
- <p align="center"> applications developed during Rocketseat's Launchbase bootcamp </P>
+ <p align="center"> applications developed during Rocketseat's Launchbase bootcamp.</P>
  
  <h2> <img src= "https://img.icons8.com/plasticine/2x/rocket.png" width="50px" height="50px" align="center"/> What is Launchbase? </h2>
  <p>LaunchBase is an online bootcamp training that lasts 8 weeks. Each week the contents are released according to a schedule, and each module has some challenges for students.</p>
@@ -19,5 +19,6 @@
 
 <p> <a href="https://github.com/mjulialobo/Launchbase-Desafio3"> Challenge 3:</a> developing the backend of Rockeseat website, using  Node.Js and Nunjuncks template engine. </p>
 
-<p> <a href="https://github.com/mjulialobo/Foodfy"> Foodfy:</a> complete website for recipes, both back and frontend developed using HTML, CSS, JavaScritp, Node.Js and Nunjucks template engine.</p>
-<p>   <a href="https://github.com/mjulialobo/Stoody"> Stoody:</a> a website for online tutoring program, where teachers and students can register themselfs on a database. Still in progress!</p>
+<p>   <a href="https://github.com/mjulialobo/Stoody"> Stoody:</a> a manager for a private tutoring program, where teachers and students can be registered on a database created with postgreSQL. Stoody is part of Challenge 4 and 5!#Fullstack </p>
+
+<p> <a href="https://github.com/mjulialobo/Foodfy"> Foodfy:</a> Foodfy is a recipe website manager created using CSS, HTML, JavaScript, Node.js, postgreSQL and Nunjucks template engine. It is the finall project of Launchbase. Still is progress! #Fullstack</p>
