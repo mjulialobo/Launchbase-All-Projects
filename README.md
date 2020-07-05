@@ -19,6 +19,6 @@
 
 <p> <a href="https://github.com/mjulialobo/Launchbase-Desafio3"> Challenge 3:</a> developing the backend of Rockeseat website, using  Node.Js and Nunjuncks template engine. </p>
 
-<p>   <a href="https://github.com/mjulialobo/Stoody"> Stoody:</a> a manager for a private tutoring program, where teachers and students can be registered on a database created with postgreSQL. Stoody is part of Challenge 4 and 5!#Fullstack </p>
+<p>   <a href="https://github.com/mjulialobo/Stoody"> Stoody:</a> a manager for a private tutoring program, where teachers and students can be registered on a database created with postgreSQL. Stoody is part of Challenge 4 and 5! #Fullstack </p>
 
 <p> <a href="https://github.com/mjulialobo/Foodfy"> Foodfy:</a> Foodfy is a recipe website manager created using CSS, HTML, JavaScript, Node.js, postgreSQL and Nunjucks template engine. It is the finall project of Launchbase. Still is progress! #Fullstack</p>
