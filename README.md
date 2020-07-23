@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
- Launchbase - All Projects
+ALL PROJECTS
 </h3>
  <p align="center"> applications developed during Rocketseat's Launchbase bootcamp.</P>
  
