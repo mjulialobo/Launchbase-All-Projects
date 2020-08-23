@@ -11,7 +11,7 @@ ALL PROJECTS
  <p>LaunchBase is an online bootcamp training that lasts 8 weeks. Each week the contents are released according to a schedule, and each module has some challenges for students.</p>
  <p>During Launchbase, we worked with HTML, CSS, JavaScript, NodeJS, SQL, PostgreSQL and others.</p>
 
-<h2> <img src= "https://img.icons8.com/all/500/project.png" width="50px" height="50px" align="center"/> Projects and Repositories </h2>
+<h2> <img src="https://img.icons8.com/ios-filled/50/000000/project.png" width="50px" height="50px" align="center"/> Projects and Repositories </h2>
 
 <p> <a href="https://github.com/mjulialobo/Launchbase-Desafio01-JS"> Challenge 1:</a> first steps with JavaScript, multiple programs developed using simple JavaScript codes. </p>
 
