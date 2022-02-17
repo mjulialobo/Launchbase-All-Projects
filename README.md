@@ -26,4 +26,4 @@ ALL PROJECTS
 <p> <a href="https://github.com/mjulialobo/Foodfy"> Foodfy:</a> Foodfy is a recipe website created using CSS, HTML, JavaScript, Node.js, postgreSQL and Nunjucks template engine. It is the finall project of Launchbase. My project received 9.5 out of 10. #Fullstack</p>
 
 <p> Here is my Launchbase certificate: </p>
-<img src= "https://media-exp1.licdn.com/dms/image/C4D2DAQErqdwTMWQc0w/profile-treasury-image-shrink_1920_1920/0/1605126704207?e=1613505600&v=beta&t=tVHS4T2ySNFQFa3U952tPJf0Wqiav3E6RaBm13lpBXc">
+<img src= "https://media-exp1.licdn.com/dms/image/C4D2DAQErqdwTMWQc0w/profile-treasury-image-shrink_1920_1920/0/1605126704207?e=1645228800&v=beta&t=kN-KL_ZoxMZQqfp-it1BUdlt5KsgMK94UxASHtmrC3M">
